@@ -1,1 +1,1 @@
-[GitHub profile](https://github.com/monagrig)
+[GitHub](https://github.com/monagrig)
