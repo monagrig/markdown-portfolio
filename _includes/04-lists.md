@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Favorite things:
+* roses
+* cakes
+* sunrise
+* sea
+* mountains
